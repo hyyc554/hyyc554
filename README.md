@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="https://github.com/hyc554" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=hyc554&title_color=333&text_color=777" alt="Charmve's Stats" >
+    <img src="https://github-readme-stats.vercel.app/api?username=hyyc554&title_color=333&text_color=777" alt="Charmve's Stats" >
     <!-- &hide=issues
     <img src="https://github-readme-stats.vercel.app/api?username=Charmve&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
     -->
