@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![Yance's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=hyyc554&show_icons=true&count_private=true&theme=gotham)
 
 ![](https://github-readme-stats.vercel.app/api?username=hyyc554)
