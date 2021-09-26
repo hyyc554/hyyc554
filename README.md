@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 -->
 ## Hi, 👋  I'm Yance
 
+- 🔭 I’m currently working on golang & python.
+- 🌱 I’m currently learning K8s.
 
 <br>
 
