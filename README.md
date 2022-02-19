@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <h2></h2>
 
-<img align="right" alt="GIF" src="https://z3.ax1x.com/2021/09/25/4sGEkj.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
+<img align="right" alt="GIF" src="https://blog-1258785470.cos.ap-guangzhou.myqcloud.com/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
 
 
 **Languages and Frameworks**
