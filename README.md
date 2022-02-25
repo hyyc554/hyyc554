@@ -36,19 +36,19 @@ Here are some ideas to get you started:
   <strong>Check out my work below!</strong>
   <br><br>
   <a href="https://github.com/yance-dev">
-    <img src="https://badges.pufler.dev/visits/hyyc554/hyyc554?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/visits/yance-dev/yance-dev?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/yance-dev">
-    <img src="https://badges.pufler.dev/years/hyyc554?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/years/yance-dev?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/yance-dev?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/hyyc554?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/repos/yance-dev?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://gist.github.com/yance-dev">
-    <img src="https://badges.pufler.dev/gists/hyyc554?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/gists/yance-dev?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/yance-dev">
-    <img src="https://badges.pufler.dev/commits/monthly/hyyc554?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/commits/monthly/yance-dev?style=flat-square&color=black&logo=github">
   </a>
 </p>
 
