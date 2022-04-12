@@ -19,18 +19,31 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning K8s.
 
 <br>
-
-
-<p align="center">
-  <a href="https://github.com/yance-dev" class="rich-diff-level-one">
+<table>
+    <tr>
+            <th>stats</th>
+            <th>Top Langs</th>
+    </tr>
+    <tr>
+        <td>  <a href="https://github.com/yance-dev" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=yance-dev&title_color=333&text_color=777" alt="Charmve's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=Charmve&hide=issues&title_color=333&text_color=777" alt="Charmve's Stats" >
-    -->
-  </a>
+  
+  </a></td>
+        <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yance-dev&layout=compact)](https://github.com/yance-dev/github-readme-stats)</td>
+    </tr>
+</table>
+
+
+<figure>
+<p align="left">
+
+  
 </p>
+<p align="left"> 
 
 
+</p>
+</figure>
 <p align="center">
   
   <strong>Check out my work below!</strong>
@@ -82,14 +95,3 @@ Here are some ideas to get you started:
 
 <br>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-
-<!--END_SECTION:waka-->
-
----
-
-🚧 **My Todoist Stats: ⬇️**
-<!--
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![PaperWeeklyAI](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=PaperWeeklyAI)](https://github.com/Charmve/PaperWeeklyAI) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Surface-Defect-Detection](https://github-readme-stats.vercel.app/api/pin/?username=Charmve&repo=Surface-Defect-Detection)](https://github.com/Charmve/Surface-Defect-Detection)
--->
