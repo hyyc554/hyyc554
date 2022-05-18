@@ -19,7 +19,15 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning K8s.
 
 <br>
-<table>
+<span align = "center">
+   <center>
+  <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=yance-dev" width = 400>
+   
+  <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com?user=yance-dev&date_format=j%20M%5B%20Y%5D&stroke=DD2727" width = 400>
+   </center>
+</span>
+
+<!-- <table>
     <tr>
             <th>stats</th>
             <th>Top Langs</th>
@@ -32,7 +40,7 @@ Here are some ideas to get you started:
         <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yance-dev&layout=compact)](https://github.com/yance-dev/github-readme-stats)</td>
     </tr>
 </table>
-
+ -->
 
 <figure>
 <p align="left">
