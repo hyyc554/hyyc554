@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 -->
 ## Hi, 👋  I'm Yance
 
-- 🔭 I’m currently working on golang & python.
-- 🌱 I’m currently learning K8s.
+- 🔭 I’m currently working on golang & python for AI tools.
+<!-- - 🌱 I’m currently learning K8s. -->
 
 <br>
 <span align = "center">
@@ -27,31 +27,6 @@ Here are some ideas to get you started:
    </center>
 </span>
 
-<!-- <table>
-    <tr>
-            <th>stats</th>
-            <th>Top Langs</th>
-    </tr>
-    <tr>
-        <td>  <a href="https://github.com/yance-dev" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=yance-dev&title_color=333&text_color=777" alt="Charmve's Stats" >
-  
-  </a></td>
-        <td>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yance-dev&layout=compact)](https://github.com/yance-dev/github-readme-stats)</td>
-    </tr>
-</table>
- -->
-
-<figure>
-<p align="left">
-
-  
-</p>
-<p align="left"> 
-
-
-</p>
-</figure>
 <p align="center">
   
   <strong>Check out my work below!</strong>
