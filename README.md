@@ -8,7 +8,7 @@
 </p>
 
 
-<p align="left"> <a href="https://twitter.com/YanceDev" target="blank"><img src="https://img.shields.io/twitter/follow/hyyyyyc?logo=twitter&style=for-the-badge" alt="YanceDev" /></a> </p>
+<p align="left"> <a href="https://twitter.com/YanceDev" target="blank"><img src="https://img.shields.io/twitter/follow/YanceDev?logo=twitter&style=for-the-badge" alt="YanceDev" /></a> </p>
 <img align="right" alt="GIF" src="https://github.com/yance-dev/yance-dev/blob/main/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
 - 🔭 I’m currently working on labelfree
 
