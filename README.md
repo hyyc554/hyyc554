@@ -3,7 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yance-dev&label=Profile%20views&color=0e75b6&style=flat" alt="yance-dev" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yance-dev" alt="yance-dev" /></a> </p>
+<p align="center">
+  <img alig src="https://github-profile-trophy.vercel.app/?username=yance-dev&column=7" />
+</p>
+
 
 <p align="left"> <a href="https://twitter.com/hyyyyyc" target="blank"><img src="https://img.shields.io/twitter/follow/hyyyyyc?logo=twitter&style=for-the-badge" alt="hyyyyyc" /></a> </p>
 <img align="right" alt="GIF" src="https://github.com/yance-dev/yance-dev/blob/main/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
