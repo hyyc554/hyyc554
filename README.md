@@ -9,7 +9,7 @@
 <img align="right" alt="GIF" src="https://github.com/yance-dev/yance-dev/blob/main/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
 - 🔭 I’m currently working on labelfree
 
-- 📝 I regularly write articles on [yance.wiki](yance.wiki)
+- 📝 I regularly write articles on [yance.wiki](https://yance.wiki)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
