@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on labelfree
 
-- 📝 I regularly write articles on [yance.wiki](https://yance.wiki)
+- 📝 I regularly write blog on [ycfor.com](https://ycfor.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
