@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yance</h1>
-<h3 align="center">A passionate backend developer from China</h3>
+<h3 align="center">A passionate backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yance-dev&label=Profile%20views&color=0e75b6&style=flat" alt="yance-dev" /> </p>
 
@@ -12,7 +12,9 @@
 <img align="right" alt="GIF" src="https://github.com/yance-dev/yance-dev/blob/main/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
 
 
-- 📝 I regularly write blog on [ycfor.com](https://ycfor.com)
+- 📝 I regularly write blog on
+  - [ycfor.com](https://ycfor.com)
+  - [yance.wiki](https://yance.wiki)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
